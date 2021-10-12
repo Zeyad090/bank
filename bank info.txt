@@ -1,0 +1,2 @@
+bank address Riyadh
+bank name Alinma bank
